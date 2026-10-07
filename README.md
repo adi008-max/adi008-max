@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **adi008-max/adi008-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
